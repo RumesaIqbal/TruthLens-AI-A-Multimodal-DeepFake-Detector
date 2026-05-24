@@ -214,7 +214,7 @@ https://drive.google.com/drive/folders/16Sa7PzxuAdQOgTph6Q6y-F9OPMEUtzGy?usp=sha
 Start the FastAPI server:
 
 ```bash
-python main.py
+python -m uvicorn main:app --reload
 ```
 
 The application will run locally and can be accessed through the browser.
