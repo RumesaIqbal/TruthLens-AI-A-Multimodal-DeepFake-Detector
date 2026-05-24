@@ -161,7 +161,7 @@ Split:
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/RumesaIqbal/TruthLens-AI-A-Multimodal-DeepFake-Detector.git
 cd TruthLens-AI
 ```
 
