@@ -191,7 +191,7 @@ models/ai_vs_human_cnn.h5
 
 Download:
 ```text
-[Insert Google Drive Link]
+https://drive.google.com/file/d/1U-6NNjyl3RuSQYQU2wwmhNBA5msatFLu/view?usp=sharing
 ```
 
 ---
@@ -204,7 +204,7 @@ models/ai_text_detector/
 
 Download:
 ```text
-[Insert Google Drive Link]
+https://drive.google.com/drive/folders/16Sa7PzxuAdQOgTph6Q6y-F9OPMEUtzGy?usp=sharing
 ```
 
 ---
