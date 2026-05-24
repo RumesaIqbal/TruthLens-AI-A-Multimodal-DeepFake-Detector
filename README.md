@@ -167,14 +167,6 @@ cd TruthLens-AI
 
 ---
 
-## 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 # Download Model Files
 
 Due to GitHub file size limitations, trained model files are not included in this repository.
