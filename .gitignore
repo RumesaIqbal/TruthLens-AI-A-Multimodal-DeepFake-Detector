@@ -1,0 +1,73 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Model Files (VERY IMPORTANT for your project)
+# =========================
+models/
+*.h5
+*.pt
+*.pth
+*.bin
+
+# But if you want to keep folder structure, use:
+# !models/.gitkeep
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# FastAPI / local server cache
+# =========================
+*.sqlite3
+*.db
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Large training outputs
+# =========================
+checkpoints/
+runs/
+saved_models/
+
+# =========================
+# Python packaging
+# =========================
+dist/
+build/
+*.egg-info/
